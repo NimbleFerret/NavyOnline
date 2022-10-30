@@ -28,3 +28,4 @@ When user buyed NFT server will wait for a smarrt contract callback and generate
 Server will also damage user's ship if needed and grant a token rewards by completion of daily tasks.
 
 hello
+ 2
